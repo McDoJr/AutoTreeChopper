@@ -1,0 +1,5 @@
+name: AutoTreeChopper
+version: '1.0.0'
+main: me.kbejj.autotreechopper.AutoTreeChopper
+api-version: '1.20'
+author: McDoJr

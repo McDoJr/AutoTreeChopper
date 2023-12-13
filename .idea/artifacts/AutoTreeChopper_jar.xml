@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="AutoTreeChopper:jar">
+    <output-path>$PROJECT_DIR$/../../../Minecraft Servers/Paper 1.20.2/plugins</output-path>
+    <root id="archive" name="AutoTreeChopper.jar">
+      <element id="module-output" name="AutoTreeChopper" />
+    </root>
+  </artifact>
+</component>
