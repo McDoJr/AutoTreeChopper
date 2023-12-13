@@ -15,7 +15,7 @@
  - 5 up to 50 meter radius scan to avoid server lag
  - Diamond speed = 10 ticks / 0.5 seconds
  - Emerald speed = 20 ticks / 1 second
- - Diamond speed = 30 ticks / 1.5 seconds
+ - Gold speed = 30 ticks / 1.5 seconds
 
 I can make this plugin perfect if given enough time. Only created the basics and don't  
 have any way to save the machines yet.
